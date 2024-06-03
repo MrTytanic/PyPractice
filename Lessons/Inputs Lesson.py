@@ -7,8 +7,8 @@ print ("Hello " + name)
 print ("Your age is: " + age)
 
 # Verify Name
-if name == 'MrTytanic':
-    print ("Hey MrTytanic!")
+if name == 'Admin':
+    print ("Welcome Administrator!")
 else:
     print ("Welcome to the program")
 
