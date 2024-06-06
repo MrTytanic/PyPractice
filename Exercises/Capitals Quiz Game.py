@@ -1,4 +1,4 @@
-# Quiz game using 2D Collections
+# Quiz game using 2D Collections and for loops
 
 import random
 score = 0
