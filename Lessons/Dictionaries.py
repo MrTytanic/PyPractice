@@ -1,4 +1,4 @@
-# Dictionary = a collection of {key:value} pairs
+# Dictionary = collection of {key:value} pairs
 
 capitals = {"USA": "Washington D.C.",
                     "India": "New Delhi",
